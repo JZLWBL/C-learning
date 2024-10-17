@@ -1,0 +1,6 @@
+﻿  game.c
+D:\code\2023\learning-the-c-language\扫雷\扫雷\game.c(91,11): warning C4566: 由通用字符名称“\u2FAE”表示的字符不能在当前代码页(936)中表示出来
+D:\code\2023\learning-the-c-language\扫雷\扫雷\game.c(91,11): warning C4566: 由通用字符名称“\u2F0A”表示的字符不能在当前代码页(936)中表示出来
+  text.c
+  正在生成代码...
+  扫雷.vcxproj -> D:\code\2023\learning-the-c-language\扫雷\x64\Debug\扫雷.exe
